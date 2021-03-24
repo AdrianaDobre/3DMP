@@ -5,3 +5,4 @@ My projects for this course are created using Fusion 360 and PrusaSlicer.
 Table of contents:
 - Homework 1
 - Homework 2
+- Homework 3
