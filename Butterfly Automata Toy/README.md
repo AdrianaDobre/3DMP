@@ -8,3 +8,8 @@ The project that I chose is an Automata Butterfly Toy which flaps its wings and 
 - 3 disks/wheels
 - 3 connecting rods
 
+
+Current progress:
+- I created an empty component for each part of my project
+- I made the box, the disks, the axe and also the handle
+
