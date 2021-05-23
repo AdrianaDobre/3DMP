@@ -1,8 +1,8 @@
-**Automata Butterfly Toy
+***Automata Butterfly Toy
 
 The project that I chose is an ***Automata Butterfly Toy*** which flaps its wings and moves back and forth when the crank is turned. I chose this mechanism because it looked really interesting to make and I also love butterflies. 
 
-**How it works and the components of the mecahnism
+***How it works and the components of the mecahnism
 
 When you turn the crank, the wheels rotate periodically which causes the connecting rods to touch the wings and make the butterfly to flutter its wings . I divided the mechanism into the next components:
 - the box
@@ -16,21 +16,21 @@ In order to make the mechanism to work properly, I added some joints. I added a 
 
 The handle is the component that you needed to power in order to see how the automata works, but I  If you want to see how the mechanism works, you need to play the motion study named "Automata Butterfly Toy". 
 
-**File tipes
+***File tipes
 
 I uploaded the next file types:
 - .f3d
 - .stl
 
-**Software
+***Software
 
 I designed everything using Fusion 360. 
 
-**Author
+***Author
 
 I could not find the name of the author, but I got inspired from the next video I saw on Youtube: https://www.youtube.com/watch?v=PHzZjUK9BuQ .
 
-**Current progress:
+***Current progress:
 
 - I created an empty component for each part of my project.
 - I made the box, the disks, the axe and also the handle.
