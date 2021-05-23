@@ -9,7 +9,7 @@ When you turn the crank, the wheels rotate periodically which causes the connect
 - the butterfly - which has 2 components: the left wing and the right wing
 - the axe
 - the handle
-- wheels (which has 3 components: disk 1, disk 2 and disk 3)
+- wheels - which has 3 components: disk 1, disk 2 and disk 3
 - connecting rods - which has 3 components: connecting rod 1, connecting rod 2 (which consists of the body of the butterfly and the connecting rod 2) and connecting rod 3
 
 In order to make the mechanism to work properly, I added some joints. I added a revolute joint between the axe and the box to make the axe rotate, 3 slider joints between every connecting rod and the box to make the connecting rods move up and down and I also put 2 revolute joints between every wing and the body of butterfly to make the wings move. 
