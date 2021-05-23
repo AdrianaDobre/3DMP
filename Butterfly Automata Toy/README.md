@@ -2,7 +2,7 @@
 
 The project that I chose is an ***Automata Butterfly Toy*** which flaps its wings and moves back and forth when the crank is turned. I chose this mechanism because it looked really interesting to make and I also love butterflies. 
 
-**How it works and the components of the mecahnism**
+**How it works and the components of the mechanism**
 
 When you turn the crank, the wheels rotate periodically which causes the connecting rods to touch the wings and make the butterfly to flutter its wings . I divided the mechanism into the next components:
 - the box
