@@ -14,7 +14,7 @@ When you turn the crank, the wheels rotate periodically which causes the connect
 
 In order to make the mechanism to work properly, I added some joints. I added a revolute joint between the axe and the box to make the axe rotate, 3 slider joints between every connecting rod and the box to make the connecting rods move up and down and I also put 2 revolute joints between every wing and the body of butterfly to make the wings move. 
 
-The handle is the component that you needed to power in order to see how the automata works, but I  If you want to see how the mechanism works, you need to play the motion study named "Automata Butterfly Toy". 
+The handle is the component that you needed to power in order to see how the automata works, but I produced the movement of the mechanism using a motion study. So if you want to see how the mechanism works, you need to play the motion study named "Automata Butterfly Toy". 
 
 **File types**
 
