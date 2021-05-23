@@ -21,6 +21,7 @@ The handle is the component that you needed to power in order to see how the aut
 I uploaded the next file types:
 - .f3d
 - .stl
+- .jpg
 
 **Software**
 
